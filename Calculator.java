@@ -10,7 +10,7 @@ public class Calculator {
         System.out.println("\n               7     8     9     /"
                           +"\n               4     5     6     *"
                           +"\n               1     2     3     -"
-                          +"\n               .     0     %     +");
+                          +"\n               .     0    %     +");
         System.out.print("\nEnter the first number  : ");
         a = sc.nextDouble();
         System.out.print("Enter the second number : ");
