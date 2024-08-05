@@ -25,5 +25,6 @@ public class Numberguessgame {
             }
 
         }
+        sc.close();
     }
 }
